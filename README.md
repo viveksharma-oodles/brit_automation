@@ -1,9 +1,6 @@
 # Playwright Automation: Search Functionality Test
 
-## Overview
-This project contains an automated test script written in TypeScript using [Playwright](https://playwright.dev/). The script verifies the search functionality on the Brit Insurance website.
 
-## Prerequisites
 Ensure you have the following installed before running the test:
 - [Node.js](https://nodejs.org/) (LTS version recommended)
 - [Playwright](https://playwright.dev/)
